@@ -50,7 +50,7 @@ ROADMAP to get started in cybersecurity and CTF
 - Web application testing with Burp Suite.  
   Resource: [PortSwigger Web Security Academy](https://portswigger.net/web-security)  
 - Traffic analysis with Wireshark.  
-  Resource: [Wireshark Tutorial - Practical Packet Analysis (Book)](https://www.nostarch.com/packetanalysis2/)  
+  Resource: [Wireshark Tutorial - Practical Packet Analysis]([https://www.nostarch.com/packetanalysis2/](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ))  
 - Intrusion detection with Snort or Suricata.  
   Resource: [Snort User Manual](https://www.snort.org/downloads) | [Suricata Documentation](https://suricata.readthedocs.io/en/latest/)  
 
