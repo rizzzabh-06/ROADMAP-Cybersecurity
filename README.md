@@ -93,3 +93,8 @@ ROADMAP to get started in cybersecurity and CTF
 | Steganography        | Hidden data in media files—images, audio, video.                         | [Steganography Online Tools](https://stylesuxx.github.io/steganography/) |
 | Network Exploitation | Traffic capture, protocol exploitation, MITM attacks.                     | [Wireshark Labs](https://www.wireshark.org/docs/)    |
 | Miscellaneous        | Puzzles, OSINT, scripting, unique security challenges.                    | [Root Me](https://www.root-me.org/?lang=en)          |
+
+
+
+
+# For more help and guidance on your cybersecurity journey, follow the official MIT Cybersecurity and Blockchain Club (MIT CBC) on Instagram [@cbc_mitadt](https://instagram.com/cbc_mitadt) and join their [WhatsApp group](https://chat.whatsapp.com/DEBNwthm1O02tSEVCtfko7?mode=wwt). These platforms offer valuable resources, mentorship, and community support.
