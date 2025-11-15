@@ -46,3 +46,16 @@ ROADMAP to get started in cybersecurity
 * Cloud security (AWS, Azure, GCP security fundamentals).
 * Threat hunting and SOC operations.
 * Secure software development and DevSecOps.
+
+# CTF Domains and Their Inclusions
+Capture The Flag (CTF) competitions are a fantastic way to practice cybersecurity skills across diverse domains. Here are common CTF domains and what they typically include:
+| CTF Domain           | Description / What It Includes                                                                              |
+| -------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Web Exploitation     | Finding and exploiting vulnerabilities in web apps, such as SQL injection, XSS, CSRF, authentication flaws. |
+| Binary Exploitation  | Reverse engineering, buffer overflows, format string attacks, heap exploits on compiled binaries.           |
+| Cryptography         | Breaking or analyzing cryptographic challenges, cipher cracking, encoding/decoding messages.                |
+| Reverse Engineering  | Analyzing compiled code to understand functionality or extract secrets without source code.                 |
+| Forensics            | Analyzing files, network captures, memory dumps, or logs to find hidden data or reconstruct events.         |
+| Steganography        | Finding hidden messages or data in images, audio, video, or other media files.                              |
+| Network Exploitation | Capturing and analyzing network traffic, exploiting protocols, man-in-the-middle, or traffic tampering.     |
+| Miscellaneous        | Unique challenges that do not fall strictly into other categories, including puzzles, OSINT, scripting.     |
